@@ -14,14 +14,14 @@ Welcome to gui
 | body row 2             | ...        | ...      |          |
 +------------------------+------------+----------+----------+
 
-.. image:: ../_static/fan.PNG
+.. image:: /_static/fan.PNG
    :height: 200px
    :width: 200 px
    :scale: 50 %
    :alt: alternate text
    :align: center
    
-.. image:: ../_static/fan.PNG
+.. image:: /_static/fan.PNG
    :height: 200px
    :width: 200 px
    :scale: 50 %
