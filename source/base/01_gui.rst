@@ -21,7 +21,7 @@ Welcome to gui
    :alt: alternate text
    :align: center
    
-.. image:: /_images/fan.png
+.. image:: ../_images/fan.png
    :height: 200px
    :width: 200 px
    :scale: 50 %
