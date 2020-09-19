@@ -14,7 +14,7 @@ Welcome to gui
 | body row 2             | ...        | ...      |          |
 +------------------------+------------+----------+----------+
 
-.. image:: /_images/fan.png
+.. image:: ../_images/fan.png
    :height: 200px
    :width: 200 px
    :scale: 50 %
