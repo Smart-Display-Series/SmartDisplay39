@@ -14,4 +14,5 @@ Item:
          
    01_gui <base/01_gui.rst>
    02_hell <base/02_hell.rst>
+   Syntax <demo/demo.rst>
 
